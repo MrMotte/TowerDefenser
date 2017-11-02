@@ -49,6 +49,7 @@ Tower_Defense/SourceArt/**/*.png
 Tower_Defense/SourceArt/**/*.tga
 
 # Binary Files
+!Tower_Defense/Binaries/Win64/*
 Tower_Defense/Binaries/*
 
 # Builds
